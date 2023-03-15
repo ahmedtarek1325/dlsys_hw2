@@ -88,7 +88,7 @@ Navigating this repo you will find an implementation for the following:
 --- 
 
 ## Want to see more of the assignments ? 
-### Click here to see the rest of the assignments and my take outts
+### Click here to see the rest of the assignments and AHA moments
 1. [HW1](https://github.com/ahmedtarek1325/dlsys_hw1)
 2. [HW2](https://github.com/ahmedtarek1325/dlsys_hw2)
 3. [HW3](https://github.com/ahmedtarek1325/dlsys_hw3)
